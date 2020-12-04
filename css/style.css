@@ -119,11 +119,11 @@ h2,h1{
 }
 
 .showcase .showcase-form{
-    height: 350px;
+    max-height: 350px;
     padding: 40px;
     position: relative;
     top: 60px;
-    width: 400px;
+    max-width: 400px;
     justify-content: flex-end;
     z-index: 100;
 
